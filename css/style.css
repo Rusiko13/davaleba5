@@ -1,0 +1,125 @@
+.logo {
+  margin: 69px 0 0 162px;
+}
+.header-h1 {
+  color: #274c5b;
+  font-family: "Roboto-bold";
+  font-size: 38px;
+  font-weight: 700;
+  display: inline-block;
+  margin-right: 150px;
+}
+.nav,
+.nav-li {
+  display: inline-block;
+}
+.nav-a {
+  color: #274c5b;
+  font-family: "Roboto-bold";
+  font-size: 20px;
+  font-weight: 700;
+}
+.nav-li-padd {
+  padding-right: 25px;
+}
+
+.main-main {
+  background-color: #f9f8f8;
+  margin-top: 69px;
+  padding-bottom: 234px;
+}
+.main-parent-div {
+  width: 43vw;
+  margin: 0 50px 0 100px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.main-div1 {
+  color: #7eb693;
+  font-style: italic;
+  font-family: "Yellowtail";
+  font-size: 36px;
+  font-weight: 400;
+}
+.main-div2 {
+  color: #274c5b;
+  font-family: "Roboto-bold";
+  font-size: 50px;
+  font-weight: 800;
+  margin-top: 6px;
+}
+
+.main-div3 {
+  color: #525c60;
+  font-family: "Open Sans";
+  font-size: 18px;
+  font-weight: 400;
+  color: #525c60;
+  line-height: 165.4%;
+  margin-top: 25px;
+}
+.vegetable-photo {
+  width: 40vw;
+  border-radius: 9px;
+  vertical-align: middle;
+}
+
+.section-div1 {
+  width: 20%;
+  height: 335px;
+  background-color: #fff;
+  display: inline-block;
+}
+.section-div1 h4 {
+  width: 152px;
+  color: #274c5b;
+  font-family: "Roboto-bold";
+  font-size: 20px;
+  font-weight: 800;
+  padding-left: 22px;
+  padding-top: 29px;
+  margin-bottom: 20px;
+}
+.section-div1 p {
+  width: 184px;
+  color: #525c60;
+  text-align: center;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 165.4%;
+  padding-left: 36px;
+}
+.section-marg {
+  margin-right: 30px;
+}
+.all-divs {
+  text-align: center;
+  margin-top: 91px;
+}
+.middle {
+  padding-top: 109.28px;
+}
+.position {
+  position: fixed;
+  /* left: 0px; */
+  top: -70px;
+  background-color: #fff;
+  border: 2px solid #fff;
+  width: 100%;
+  padding: 20px 0;
+  z-index: 2;
+}
+.relative {
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+}
+.absolute-h5 {
+  position: absolute;
+  top: 105px;
+  left: 162px;
+  color: red;
+  text-shadow: 1px 1px 2px purple;
+  text-transform: capitalize;
+}
